@@ -5,6 +5,7 @@ public class main {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello world");
+		System.out.println("This is second attempt for git test");
 
 	}
 
