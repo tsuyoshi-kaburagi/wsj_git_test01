@@ -6,6 +6,7 @@ public class main {
 		
 		System.out.println("Hello world");
 		System.out.println("This is second attempt for git test");
+		System.out.println("Conflict pattern");
 
 	}
 
